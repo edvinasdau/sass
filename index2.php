@@ -21,56 +21,53 @@
 			</div>
 		</div>
 	</div>
-	
-	<div class="row a">
-		<div class="col"><p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci. </p></div>
-	</div>	
+	<div class="container">
+		<div class="row a">
+			<div class="col"><p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci. </p></div>
+		</div>	
 		<div class="row b">
 			<div class="col z">
 				<button type="button" class="btn btn-success">Pirmas mygtukas</button>
 				<button type="button" class="btn btn-success">Antras mygtukas</button>
 			</div>
-			
+
 		</div>
-	
+	</div>
 	<div class="container">
 		<div class="row c">
 			<div class="col"><h1>My portfolio</h1></div>
 		</div>
 
 		<div class="row d">
-			<div class="col-6">
-				<div class="row">
-					<div class="col">
-						<div class="row">
-							<div class="col"><img src="images/img.jfif"></div></div>
-							<div class="col"><p>1Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p></div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-6">
-				<div class="row">
-					<div class="col">
-						
-					</div>
-				</div>
-			</div>
-		</div>
+			<div class="col-md-3"><img src="images/img.jfif"></div>
 
-		<div class="row">
-			<div class="col g"><p>Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. Phasellus accumsan cursus velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci. Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Vestibulum fringilla pede sit amet augue. In turpis. Pellentesque posuere. Praesent turpis.</p></div>
-		</div>
+			<div class="col e"><p>1Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p></div>
 
-		<div class="row i">
-			<div class="col i">
-				<div class="col-8 h"><p>Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. Phasellus accumsan cursus velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, </p><button type="button" class="btn btn-success">Home</button></div>
-				<div class="col-4 h"><p>Donec posuere vulputate arcu. Phasellus accumsan cursus velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam</p></div>
+			<div class="col-md-3"><img src="images/img.jfif"></div>
+
+			<div class="col e"><p>2Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p></div>
+		</div>	
+
+		<div class="row d">
+			<div class="col-md-3"><img src="images/img.jfif"></div>
+			<div class="col e"><p>3Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p></div>
+			<div class="col-md-3"><img src="images/img.jfif"></div>
+			<div class="col e"><p>4Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</div>
+			</div>
+
+			<div class="row">
+				<div class="col g"><p>Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. Phasellus accumsan cursus velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci. Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Vestibulum fringilla pede sit amet augue. In turpis. Pellentesque posuere. Praesent turpis.</p></div>
+			</div>
+
+			<div class="row i">
+				<div class="col i">
+					<div class="col-8 h"><p>Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. Phasellus accumsan cursus velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, </p><button type="button" class="btn btn-success">Home</button></div>
+					<div class="col-4 h"><p>Donec posuere vulputate arcu. Phasellus accumsan cursus velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam</p></div>
+				</div>	
 			</div>	
-		</div>	
-		<div class="row">
-			<div class="col footer"><p>Copyright (c) 2013. All rights reserved.</p></div>
-		</div>	
-	</div>
-</body>
-</html>
+			<div class="row">
+				<div class="col footer"><p>Copyright (c) 2013. All rights reserved.</p></div>
+			</div>	
+		</div>
+	</body>
+	</html>
