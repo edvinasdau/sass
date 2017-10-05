@@ -1,7 +1,1 @@
-.a {
-  border: solid black 1px;
-}
-
-* {
-  box-sizing: border-box;
-}
+.a{border:solid black 1px;padding:50px;text-align:center;font-size:300%;background-color:darkgrey;box-sizing:border-box}.b{border:solid black 1px;padding:50px;text-align:center;font-size:300%;background-color:#af9c83;box-sizing:border-box}.c{border:solid black 1px;padding:50px;text-align:center;font-size:300%;background-color:#fac13d;box-sizing:border-box}.d{border:solid black 1px;padding:50px;text-align:center;font-size:300%;background-color:#979da5;box-sizing:border-box}.e{border:solid black 1px;padding:50px;text-align:center;font-size:300%;background-color:#828387;box-sizing:border-box}.f{border:solid black 1px;padding:10px;text-align:center;font-size:20%;background-color:#af9c83;box-sizing:border-box;margin-top:50px;margin-left:50px}.g{border:solid black 1px;padding:10px;text-align:center;font-size:50%;background-color:#9e244d;box-sizing:border-box;margin-top:50px;margin-right:50px}.h{border:solid black 1px;padding:10px;text-align:center;font-size:50%;background-color:#006e51;box-sizing:border-box;margin-bottom:50px;margin-left:50px}.j{border:solid black 1px;padding:10px;text-align:center;font-size:50%;background-color:#af9483;box-sizing:border-box;margin-bottom:50px;margin-right:50px}

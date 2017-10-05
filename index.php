@@ -11,28 +11,32 @@
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-5 a">Welcome to our web</div>
-			<div class="col-4 a">sddfgdgf</div>
-			<div class="col a">sddfggggggggf</div>
+			<div class="col-4 b">sddfgdgf</div>
+			<div class="col c">sddfggggggggf</div>
 		</div>
 		<div class="row">
-			<div class="col-3 a">dfgdgf</div>
-			<div class="col-3 a">fgdg</div>
+			<div class="col-3 d">My portfolio is HERE</div>
+			<div class="col-3 e">fgdg</div>
 			<div class="col-6">
 				<div class="row">
-					<div class="col a">dfsgdf</div>
-					<div class="col a">dsdfgsdfg</div>
-				</div>
-				<div class="row">
-					<div class="col a">hfghdkj</div>
-					<div class="col a">aertjyd</div>
+					<div class="col a">
+						<div class="row">
+							<div class="col f">dfsgdf</div>
+							<div class="col g">dsdfgsdfg</div>
+						</div>
+						<div class="row">
+							<div class="col h">hfghdkj</div>
+							<div class="col j">aertjyd</div>
+						</div>	
+					</div>	
 				</div>
 			</div>
-		<div class="row">sdfsdf</div>
+		<div class="row"></div>
 			<div class="col a">eeerte</div>
 			<div class="col a">ert</div>
 			<div class="col a">erert</div>
 			<div class="col a">rt</div>
-			<div class="col a">dfgdgf</div>
+			<div class="col a">Contact</div>
 		</div>
 	</div>
 </body>
