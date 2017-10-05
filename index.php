@@ -32,7 +32,7 @@
 				</div>
 			</div>
 		<div class="row"></div>
-			<div class="col a">eeerte</div>
+			<div class="col a">erte</div>
 			<div class="col a">ert</div>
 			<div class="col a">erert</div>
 			<div class="col a">rt</div>
